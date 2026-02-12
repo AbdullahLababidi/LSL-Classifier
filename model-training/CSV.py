@@ -5,7 +5,7 @@ import pandas as pd
 REPO_ROOT = Path(__file__).resolve().parents[1]   # goes up to LSL-Classifier/
 
 ROOT_DIR = REPO_ROOT / "data"
-OUTPUT_CSV = REPO_ROOT/ "images_index.csv"
+OUTPUT_CSV = ROOT_DIR/ "images_index.csv"
 # ============================
 
 def main():
