@@ -58,7 +58,7 @@ This repository contains:
 This ensures reproducibility of the reported results without requiring the 
 full raw dataset.
 
-The script resize_image.py requires the original dataset and is included 
+The script resize_image.py and augmented_dataset.py requires the original dataset and is included 
 for documentation purposes only.
 
 
